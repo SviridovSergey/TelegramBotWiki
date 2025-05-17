@@ -30,7 +30,7 @@
 
 ```bash
 git clone https://github.com/SviridovSergey/TelegramBotWiki.git
-cd wiki-math-bot
+cd TelegramBotWiki
 ```
 
 2. **Установи зависимости**
