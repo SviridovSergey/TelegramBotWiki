@@ -23,8 +23,8 @@
 
 1. Клонируй репозиторий:
    ```bash
-   git clone https://github.com/yourusername/wiki-math-bot.git
-   cd wiki-math-bot
+   git clone https://github.com/SviridovSergey/TelegramBotWiki.git
+   cd TelegramBotWiki
    ```
 
 2. Установи зависимости:
