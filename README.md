@@ -29,7 +29,7 @@
 1. **Клонируй репозиторий**
 
 ```bash
-git clone https://github.com/yourusername/wiki-math-bot.git
+git clone https://github.com/SviridovSergey/TelegramBotWiki.git
 cd wiki-math-bot
 ```
 
@@ -41,7 +41,7 @@ pip install python-telegram-bot wikipedia sympy
 
 3. **Замени токен**
 
-Открой файл `bot.py` и замени строку:
+Открой файл `main.py` и замени строку:
 
 ```python
 TOKEN = 'ВАШ_ТОКЕН_ЗДЕСЬ'
